@@ -1,29 +1,39 @@
 # SNA-LAB-ASSESMENT-1
 # Social-Network-Analytics-Graph-Attributes-And-Centrality-Measures
 
-NetworkX
+<b>NetworkX</b>
 
 NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
 
 
 
-CSV file with Source, destination, weight
+<b>CSV file with Source, destination, weight</b>
+
+<b>Undirected Graph</b>
+
+<img src="">
+
+
+<b>Directed Graph</b>
+
+
+<img src="https://github.com/aman4computing/SNA-LAB-ASSESMENT-1/blob/main/Directed_Graph.png">
 
 
 
-<b> Question 1 & 2
+<b> Question 1 & 2 </b>
 
 Directed and UnDirected Graph Creation with weights Graph Attributes
 
 
 
-Question 3
+<b>Question 3</b>
 
 Adjecency Matrix of Directed and UnDirected Graph both
 
 
 
-Question 4
+<b>Question 4</b>
 
 Degree Centrality
 Degree centrality assigns an importance score based simply on the number of links held by each node.
@@ -39,7 +49,7 @@ Like degree centrality, EigenCentrality measures a node’s influence based on t
 
 
 
-Question 5
+<b>Question 5</b>
 
 Report of all in pdf
 
