@@ -11,7 +11,7 @@ NetworkX is a Python package for the creation, manipulation, and study of the st
 
 <b>Undirected Graph</b>
 
-<img src="">
+<img src="https://github.com/aman4computing/SNA-LAB-ASSESMENT-1/blob/main/Undirected_Graph.png">
 
 
 <b>Directed Graph</b>
@@ -35,16 +35,22 @@ Adjecency Matrix of Directed and UnDirected Graph both
 
 <b>Question 4</b>
 
-Degree Centrality
+
+
+<b>Degree Centrality</b>
+
 Degree centrality assigns an importance score based simply on the number of links held by each node.
 
-Betweenness centrality
+<b>Betweenness centrality</b>
+
 Betweenness centrality measures the number of times a node lies on the shortest path between other nodes.
 
-Closeness centrality
+<b>Closeness centrality</b>
+
 Closeness centrality scores each node based on their ‘closeness’ to all other nodes in the network.
 
-Eigen vector Centrality
+<b>Eigen vector Centrality</b>
+
 Like degree centrality, EigenCentrality measures a node’s influence based on the number of links it has to other nodes in the network. EigenCentrality then goes a step further by also taking into account how well connected a node is, and how many links their connections have, and so on through the network.
 
 
